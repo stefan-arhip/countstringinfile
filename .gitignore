@@ -1,0 +1,6 @@
+backup/
+lib/
+csif
+*.dbg
+*.exe
+upx

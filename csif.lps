@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="csif.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="12"/>
+        <CursorPos X="26" Y="28"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="csif.lpr"/>
+        <Caret Line="21" Column="48"/>
+      </Position1>
+      <Position2>
+        <Filename Value="csif.lpr"/>
+        <Caret Line="14" Column="16"/>
+      </Position2>
+      <Position3>
+        <Filename Value="csif.lpr"/>
+        <Caret Line="15" Column="15"/>
+      </Position3>
+      <Position4>
+        <Filename Value="csif.lpr"/>
+        <Caret Line="2" Column="28"/>
+      </Position4>
+      <Position5>
+        <Filename Value="csif.lpr"/>
+        <Caret Line="3" Column="25"/>
+      </Position5>
+      <Position6>
+        <Filename Value="csif.lpr"/>
+        <Caret Line="28" Column="35" TopLine="13"/>
+      </Position6>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
